@@ -1,9 +1,7 @@
 
 # Thiago Dambroski
 
-Motivated developer with a determination to learn and evolve.
-My focus, as an emerging professional, is to utilize my skills in agile development, making a positive impact on
-the organization as a whole. I enjoy working in groups and discussing project strategies.
+As a motivated developer with a strong determination to learn and evolve. As an emerging professional, my focus is on utilizing my skills in agile development, along with my passion for innovation and problem-solving, to create efficient and effective solutions for my projects.
 ---
 ###  Languages and Skills
 
